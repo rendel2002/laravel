@@ -101,7 +101,7 @@
                     <div style="border-bottom: 2px solid black; width: 70%; margin: 30px auto;"></div>
                     <div>Signature Over Printed Name</div>
                     <div style="border-bottom: 2px solid black; width: 70%; margin: 30px auto;"></div>
-                    <div>Position Office</div>
+                    <div>Position/Office</div>
                     <div style="border-bottom: 2px solid black; width: 70%; margin: 30px auto;"></div>
                     <div>Date</div>
                 </td>
@@ -110,7 +110,7 @@
                     <div style="border-bottom: 2px solid black; width: 70%; margin: 30px auto;"></div>
                     <div>Signature Over Printed Name</div>
                     <div style="border-bottom: 2px solid black; width: 70%; margin: 30px auto;"></div>
-                    <div>Position Office</div>
+                    <div>Position/Office</div>
                     <div style="border-bottom: 2px solid black; width: 70%; margin: 30px auto;"></div>
                     <div>Date</div>
                 </td>
