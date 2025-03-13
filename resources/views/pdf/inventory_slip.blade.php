@@ -57,7 +57,6 @@
 
     <span class="appendix">Appendix 52</span>
     <div class="box">
-        <!-- Box for title and fields -->
         <div class="header-box">
             <h5 style="font-size: 1rem;">INVENTORY CUSTODIAN SLIP</h5>
             <div class="header-info1">
