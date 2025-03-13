@@ -20,8 +20,7 @@
 </head>
 <body>
     <div class="container text-center">
-        <h1>Welcome to the Inventory System</h1>
-        <p>This is a simple data display.</p>
+        <h1> Inventory Custodian Slip</h1>
 
      
         <div class="table-responsive">
@@ -43,21 +42,8 @@
                         <div class="text-center ">
             <a href="{{ url('/pdf') }}" target="_blank" class="btn btn-primary">PDF View</a>
         </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Office Chair</td>
-                        <td>2</td>
-                        <td>₱5,000</td>
-                        <td>
-                        <div class="text-center ">
-            <a href="{{ url('/pdf') }}" target="_blank" class="btn btn-primary">PDF View</a>
-        </div>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+                   
+       
 
 
       
