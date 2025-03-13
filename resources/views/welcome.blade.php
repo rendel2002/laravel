@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome Page</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -20,7 +23,7 @@
         <h1>Welcome to the Inventory System</h1>
         <p>This is a simple data display.</p>
 
-        <!-- Responsive Table -->
+     
         <div class="table-responsive">
             <table class="table table-bordered text-center">
                 <thead class="thead-dark">
@@ -28,7 +31,7 @@
                         <th>Item Name</th>
                         <th>Quantity</th>
                         <th>Price</th>
-                        <th>Action</th> <!-- Added Action Column -->
+                        <th>Action</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -56,13 +59,11 @@
             </table>
         </div>
 
-        <!-- PDF View Button -->
+
       
     </div>
 
-    <!-- Bootstrap Scripts -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
 </body>
 </html>
