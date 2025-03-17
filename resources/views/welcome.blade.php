@@ -23,24 +23,11 @@
         <h1> Inventory Custodian Slip</h1>
 
      
-        <div class="table-responsive">
-            <table class="table table-bordered text-center">
-                <thead class="thead-dark">
-                    <tr>
-                        <th>Item Name</th>
-                        <th>Quantity</th>
-                        <th>Price</th>
-                        <th>Action</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Computer Monitor</td>
-                        <td>1</td>
-                        <td>₱10,000</td>
-                        <td>
-                        <div class="text-center ">
-            <a href="{{ url('/pdf') }}" target="_blank" class="btn btn-primary">PDF View</a>
+        <a href="{{ url('/pdf/inventory-slip') }}" target="_blank" class="btn btn-primary mt-3">View Inventory Slip PDF</a>
+
+<a href="{{ url('/pdf/journal-entry') }}" target="_blank" class="btn btn-success mt-3">View Journal Entry PDF</a>
+
+
         </div>
                    
        
@@ -48,6 +35,8 @@
 
       
     </div>
+
+    
 
 
 
