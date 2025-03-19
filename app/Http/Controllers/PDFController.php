@@ -20,4 +20,8 @@ class PDFController extends Controller
         $pdf = Pdf::loadView('pdf.journal_entry');
         return $pdf->stream('journal_entry.pdf');
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8a101ac (updated)

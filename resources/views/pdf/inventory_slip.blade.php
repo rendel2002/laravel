@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Inventory Custodian Slip</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-      
         .appendix {
             font-style: italic;
             font-size: 16px;
             position: absolute;
             right: 30px;
         }
+
         .box {
             width: 100%;
             margin-top: 15px;
@@ -22,37 +23,46 @@
             font-size: 1rem;
 
         }
+
         .header-box {
-            border: 2px solid black; 
+            border: 2px solid black;
             padding: 10px;
             text-align: center;
         }
+
         .header-info1 {
             display: flex;
-           margin-top: 10px;
+            margin-top: 10px;
             justify-content: space-between;
         }
+
         .header-info1 div {
             flex: 1;
             text-align: left;
         }
+
         .table-container {
             width: 100%;
         }
+
         table {
             width: 100%;
             border-collapse: collapse;
         }
-        th, td {
+
+        th,
+        td {
             border: 2px solid black;
             padding: 5px;
             text-align: center;
         }
+
         th {
-            background-color: #e9ecef;
+            background-color: rgb(255, 255, 255);
         }
     </style>
 </head>
+
 <body class="d-flex justify-content-center align-items-center vh-100">
 
     <span class="appendix">Appendix 52</span>
@@ -89,7 +99,7 @@
                     <td style="height: 400px;">5</td>
                     <td style="height: 400px;">5</td>
                 </tr>
-                
+
             </table>
         </div>
 
@@ -114,11 +124,12 @@
                     <div>Date</div>
                 </td>
             </tr>
-            
+
         </table>
         <div style="text-align: left; font-weight: bold;">For Use of Supply and/or Property Division/Unit </div>
 
     </div>
 
 </body>
+
 </html>
